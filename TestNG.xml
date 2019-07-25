@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="webdriver">
+<test name="TEST">
+<classes>
+<class name="TestNG/addbook">
+</class>
+</classes>
+
+</test>
+</suite>
